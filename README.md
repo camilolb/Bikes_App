@@ -80,8 +80,10 @@ After that use `cd ios` `pod install`
 ## Generic Comands
 
 - Mobile
+   - `yarn cache clean`
   - `yarn run ios`
   - `yarn run android`
+
 
 ## Documentation
 
